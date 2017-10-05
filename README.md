@@ -12,3 +12,6 @@ Custom horizontal PickerView
 
     pickerView.transform =  CGAffineTransform(rotationAngle: rotationAngle)
     pickerView.frame = originalFrame
+
+
+<a href="https://www.youtube.com/watch?v=6Qd3CdWYeJ8">Reference</a>
